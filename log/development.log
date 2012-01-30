@@ -1,0 +1,1074 @@
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-01-23 20:58:09 -0500
+
+Mysql2::Error (Unknown database 'simple_cms_development'):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.0ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.9ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2012-01-23 21:05:11 -0500
+
+Mysql2::Error (Unknown database 'simple_cms_development'):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (19.1ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (23.2ms)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2012-01-23 21:05:14 -0500
+
+Mysql2::Error (Unknown database 'simple_cms_development'):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.4ms)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2012-01-23 21:05:15 -0500
+
+Mysql2::Error (Unknown database 'simple_cms_development'):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.1ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2012-01-24 21:22:38 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-24 21:38:14 -0500
+
+ActionController::RoutingError (No route matches "/"):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2012-01-24 21:44:35 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-24 21:45:35 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (43.5ms)
+Completed 200 OK in 47ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-24 21:52:30 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/hello.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/demo/other_hello" for 127.0.0.1 at 2012-01-27 16:21:57 -0500
+  Processing by DemoController#other_hello as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2012-01-27 16:23:33 -0500
+  Processing by DemoController#index as HTML
+Redirected to http://localhost:3000/demo/other_hello
+Completed 302 Found in 1ms
+
+
+Started GET "/demo/other_hello" for 127.0.0.1 at 2012-01-27 16:23:34 -0500
+  Processing by DemoController#other_hello as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:25:29 -0500
+  Processing by DemoController#hello as HTML
+Redirected to http://google.com
+Completed 302 Found in 0ms
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:28:31 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 37ms (Views: 37.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:28:44 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:29:18 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:29:23 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:29:52 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:30:55 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:32:04 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:32:05 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:32:09 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 4ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:38:19 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (37.6ms)
+Completed 500 Internal Server Error in 41ms
+
+ActionView::Template::Error (undefined local variable or method `n' for #<#<Class:0x00000103e039c8>:0x00000103dfaff8>):
+    8: <%= "Hello #{target}" %>
+    9: 
+    10: <% @array.each do %>
+    11:   <%= n %></br>
+    12: <% end %>
+  app/views/demo/hello.html.erb:11:in `block in _app_views_demo_hello_html_erb__1483339668878263274_2179975040__725501611251245949'
+  app/views/demo/hello.html.erb:10:in `each'
+  app/views/demo/hello.html.erb:10:in `_app_views_demo_hello_html_erb__1483339668878263274_2179975040__725501611251245949'
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:38:56 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:42:02 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (3.5ms)
+Completed 500 Internal Server Error in 7ms
+
+ActionView::Template::Error (undefined local variable or method `google' for #<#<Class:0x00000102112b48>:0x00000103947b28>):
+    12: <% end %>
+    13: 
+    14: 
+    15: <%= link_to(google, "http://google.com") %>
+  app/views/demo/hello.html.erb:15:in `_app_views_demo_hello_html_erb__1483339668878263274_2179978300__725501611251245949'
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.1ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (5.9ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:42:13 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:42:57 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:43:16 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-27 16:43:18 -0500
+  Processing by DemoController#index as HTML
+Redirected to http://localhost:3000/demo/other_hello
+Completed 302 Found in 1ms
+
+
+Started GET "/demo/other_hello" for 127.0.0.1 at 2012-01-27 16:43:18 -0500
+  Processing by DemoController#other_hello as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-27 16:45:05 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-27 16:46:14 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:46:15 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-27 16:47:09 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:47:11 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello" for 127.0.0.1 at 2012-01-27 16:51:27 -0500
+  Processing by DemoController#hello as HTML
+Rendered demo/hello.html.erb within layouts/application (20.3ms)
+Completed 200 OK in 23ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-27 16:51:31 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-27 16:53:44 -0500
+  Processing by DemoController#index as HTML
+Rendered demo/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello/20?page=5" for 127.0.0.1 at 2012-01-27 16:53:45 -0500
+  Processing by DemoController#hello as HTML
+  Parameters: {"page"=>"5", "id"=>"20"}
+Rendered demo/hello.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (can't convert Fixnum into String):
+    2: <p>Hello World from the copied page</p>
+    3: 
+    4: ID: <%= @id %> <br />
+    5: Next Page: <%= @page +1 %><br />
+    6: 
+    7: <%= 1 + 1 %>
+    8: 
+  app/views/demo/hello.html.erb:5:in `+'
+  app/views/demo/hello.html.erb:5:in `_app_views_demo_hello_html_erb__1483339668878263274_2154492080__725501611251245949'
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (19.7ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (25.5ms)
+
+
+Started GET "/demo/hello/20?page=5" for 127.0.0.1 at 2012-01-27 16:56:15 -0500
+  Processing by DemoController#hello as HTML
+  Parameters: {"page"=>"5", "id"=>"20"}
+Rendered demo/hello.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (invalid radix 1):
+    2: <p>Hello World from the copied page</p>
+    3: 
+    4: ID: <%= @id %> <br />
+    5: Next Page: <%= @page.to_i +1 %><br />
+    6: 
+    7: <%= 1 + 1 %>
+    8: 
+  app/views/demo/hello.html.erb:5:in `to_i'
+  app/views/demo/hello.html.erb:5:in `_app_views_demo_hello_html_erb__1483339668878263274_2179274860__725501611251245949'
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.8ms)
+
+
+Started GET "/demo/hello/20?page=5" for 127.0.0.1 at 2012-01-27 16:56:37 -0500
+  Processing by DemoController#hello as HTML
+  Parameters: {"page"=>"5", "id"=>"20"}
+Rendered demo/hello.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (can't convert Fixnum into String):
+    2: <p>Hello World from the copied page</p>
+    3: 
+    4: ID: <%= @id %> <br />
+    5: Next Page: <%= @page +1 %><br />
+    6: 
+    7: <%= 1 + 1 %>
+    8: 
+  app/views/demo/hello.html.erb:5:in `+'
+  app/views/demo/hello.html.erb:5:in `_app_views_demo_hello_html_erb__1483339668878263274_2156528060__725501611251245949'
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.7ms)
+
+
+Started GET "/demo/hello/20?page=5" for 127.0.0.1 at 2012-01-27 16:57:30 -0500
+  Processing by DemoController#hello as HTML
+  Parameters: {"page"=>"5", "id"=>"20"}
+Rendered demo/hello.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/hello/20?page=5" for 127.0.0.1 at 2012-01-27 16:59:46 -0500
+  Processing by DemoController#hello as HTML
+  Parameters: {"page"=>"5", "id"=>"20"}
+Rendered demo/hello.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36mSQL (27.9ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (156.4ms)[0m  CREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB
+  [1m[36mSQL (59.3ms)[0m  [1mSHOW KEYS FROM `schema_migrations`[0m
+  [1m[35mSQL (328.5ms)[0m  CREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)
+  [1m[36mSQL (17.5ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (15.6ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+  [1m[35mSQL (61.8ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120127223505')
+Migrating to CreateUsers (20120127223754)
+  [1m[36mSQL (189.9ms)[0m  [1mCREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `first_name` varchar(25), `last_name` varchar(50), `email` varchar(255) DEFAULT '' NOT NULL, `password` varchar(40), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35mSQL (0.8ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120127223754')
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations`
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (17.1ms)[0m  describe `users`
+  [1m[36mSQL (15.2ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `users`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `users`
+  [1m[36mSQL (28.1ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+  [1m[35mSQL (48.4ms)[0m  RENAME TABLE `users` TO `admin_users`
+  [1m[36mSQL (155.6ms)[0m  [1mALTER TABLE `admin_users` ADD `username` varchar(25)[0m
+  [1m[35mSQL (344.6ms)[0m  ALTER TABLE `admin_users` CHANGE `email` `email` varchar(100) DEFAULT '' NOT NULL
+  [1m[36mSQL (0.8ms)[0m  [1mSHOW COLUMNS FROM `admin_users` LIKE 'password'[0m
+  [1m[35mSQL (159.2ms)[0m  ALTER TABLE `admin_users` CHANGE `password` `hashed_password` varchar(40) DEFAULT NULL
+  [1m[36mSQL (162.9ms)[0m  [1mALTER TABLE `admin_users` ADD `salt` varchar(40)[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (135.8ms)[0m  [1mCREATE INDEX `index_admin_users_on_username` ON `admin_users` (`username`)[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120128144244')
+  [1m[36mSQL (0.5ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations`
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (1.5ms)[0m  describe `admin_users`
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW KEYS FROM `admin_users`[0m
+  [1m[36mSQL (0.5ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to AlterUsers (20120128144244)
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (111.9ms)[0m  [1mDROP INDEX `index_admin_users_on_username` ON `admin_users`[0m
+  [1m[35mSQL (386.9ms)[0m  ALTER TABLE `admin_users` DROP `salt`
+  [1m[36mSQL (0.9ms)[0m  [1mSHOW COLUMNS FROM `admin_users` LIKE 'hashed_password'[0m
+  [1m[35mSQL (124.1ms)[0m  ALTER TABLE `admin_users` CHANGE `hashed_password` `password` varchar(40) DEFAULT NULL
+  [1m[36mSQL (0.1ms)[0m  [1mALTER TABLE `admin_users` CHANGE `email` `email` {:default=>"", :null=>false} DEFAULT '' NOT NULL[0m
+Mysql2::Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{:default=>"", :null=>false} DEFAULT '' NOT NULL' at line 1: ALTER TABLE `admin_users` CHANGE `email` `email` {:default=>"", :null=>false} DEFAULT '' NOT NULL
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to AlterUsers (20120128144244)
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to AlterUsers (20120128144244)
+  [1m[35mSQL (456.3ms)[0m  ALTER TABLE `admin_users` CHANGE `email` `email` varchar(255) DEFAULT '' NOT NULL
+  [1m[36mSQL (126.4ms)[0m  [1mALTER TABLE `admin_users` DROP `username`[0m
+  [1m[35mSQL (0.7ms)[0m  RENAME TABLE `admin_users` TO `users`
+  [1m[36mAREL (48.4ms)[0m  [1mDELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120128144244'[0m
+Migrating to CreateUsers (20120127223754)
+  [1m[35mSQL (8.3ms)[0m  DROP TABLE `users`
+  [1m[36mAREL (0.5ms)[0m  [1mDELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120127223754'[0m
+Migrating to DoNothingYet (20120127223505)
+  [1m[35mAREL (0.5ms)[0m  DELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120127223505'
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations`
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120127223505')
+Migrating to CreateUsers (20120127223754)
+  [1m[36mSQL (410.2ms)[0m  [1mCREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `first_name` varchar(25), `last_name` varchar(50), `email` varchar(255) DEFAULT '' NOT NULL, `password` varchar(40), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35mSQL (27.5ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120127223754')
+Migrating to AlterUsers (20120128144244)
+  [1m[36mSQL (1.0ms)[0m  [1mRENAME TABLE `users` TO `admin_users`[0m
+  [1m[35mSQL (456.2ms)[0m  ALTER TABLE `admin_users` ADD `username` varchar(25)
+  [1m[36mSQL (132.3ms)[0m  [1mALTER TABLE `admin_users` CHANGE `email` `email` varchar(100) DEFAULT '' NOT NULL[0m
+  [1m[35mSQL (0.8ms)[0m  SHOW COLUMNS FROM `admin_users` LIKE 'password'
+  [1m[36mSQL (124.3ms)[0m  [1mALTER TABLE `admin_users` CHANGE `password` `hashed_password` varchar(40) DEFAULT NULL[0m
+  [1m[35mSQL (171.6ms)[0m  ALTER TABLE `admin_users` ADD `salt` varchar(40)
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `admin_users`[0m
+  [1m[35mSQL (96.7ms)[0m  CREATE INDEX `index_admin_users_on_username` ON `admin_users` (`username`)
+  [1m[36mSQL (23.5ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128144244')[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (2.2ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (30.6ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.6ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+Migrating to CreateSubjects (20120128154803)
+  [1m[35mSQL (75.2ms)[0m  CREATE TABLE `subjects` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (14.3ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128154803')[0m
+Migrating to CreatePages (20120128154809)
+  [1m[35mSQL (183.8ms)[0m  CREATE TABLE `pages` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `subject_id` int(11), `name` varchar(255), `permalink` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (24.4ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (145.8ms)[0m  CREATE INDEX `index_pages_on_subject_id` ON `pages` (`subject_id`)
+  [1m[36mSQL (21.4ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (169.8ms)[0m  CREATE INDEX `index_pages_on_permalink` ON `pages` (`permalink`)
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128154809')[0m
+Migrating to CreateSections (20120128154816)
+  [1m[35mSQL (161.6ms)[0m  CREATE TABLE `sections` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `page_id` int(11), `name` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `content_type` varchar(255), `content` text, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW KEYS FROM `sections`[0m
+  [1m[35mSQL (158.3ms)[0m  CREATE INDEX `index_sections_on_page_id` ON `sections` (`page_id`)
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128154816')[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.3ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (1.5ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subjects`
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+Migrating to CreateSubjects (20120128154803)
+Migrating to CreatePages (20120128154809)
+Migrating to CreateSections (20120128154816)
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subjects`
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+Migrating to CreateSubjects (20120128154803)
+Migrating to CreatePages (20120128154809)
+Migrating to CreateSections (20120128154816)
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (0.9ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subjects`
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to CreateSections (20120128154816)
+  [1m[35mSQL (0.8ms)[0m  DROP TABLE `sections`
+  [1m[36mAREL (334.8ms)[0m  [1mDELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120128154816'[0m
+Migrating to CreatePages (20120128154809)
+  [1m[35mSQL (0.8ms)[0m  DROP TABLE `pages`
+  [1m[36mAREL (0.3ms)[0m  [1mDELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120128154809'[0m
+Migrating to CreateSubjects (20120128154803)
+  [1m[35mSQL (0.7ms)[0m  DROP TABLE `subjects`
+  [1m[36mAREL (0.3ms)[0m  [1mDELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120128154803'[0m
+Migrating to AlterUsers (20120128144244)
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (57.2ms)[0m  [1mDROP INDEX `index_admin_users_on_username` ON `admin_users`[0m
+  [1m[35mSQL (168.6ms)[0m  ALTER TABLE `admin_users` DROP `salt`
+  [1m[36mSQL (1.2ms)[0m  [1mSHOW COLUMNS FROM `admin_users` LIKE 'hashed_password'[0m
+  [1m[35mSQL (150.3ms)[0m  ALTER TABLE `admin_users` CHANGE `hashed_password` `password` varchar(40) DEFAULT NULL
+  [1m[36mSQL (155.1ms)[0m  [1mALTER TABLE `admin_users` CHANGE `email` `email` varchar(255) DEFAULT '' NOT NULL[0m
+  [1m[35mSQL (126.0ms)[0m  ALTER TABLE `admin_users` DROP `username`
+  [1m[36mSQL (0.7ms)[0m  [1mRENAME TABLE `admin_users` TO `users`[0m
+  [1m[35mAREL (0.4ms)[0m  DELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120128144244'
+Migrating to CreateUsers (20120127223754)
+  [1m[36mSQL (33.6ms)[0m  [1mDROP TABLE `users`[0m
+  [1m[35mAREL (0.4ms)[0m  DELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120127223754'
+Migrating to DoNothingYet (20120127223505)
+  [1m[36mAREL (0.6ms)[0m  [1mDELETE FROM `schema_migrations` WHERE `schema_migrations`.`version` = '20120127223505'[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120127223505')
+Migrating to CreateUsers (20120127223754)
+  [1m[36mSQL (109.0ms)[0m  [1mCREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `first_name` varchar(25), `last_name` varchar(50), `email` varchar(255) DEFAULT '' NOT NULL, `password` varchar(40), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20120127223754')
+Migrating to AlterUsers (20120128144244)
+  [1m[36mSQL (0.8ms)[0m  [1mRENAME TABLE `users` TO `admin_users`[0m
+  [1m[35mSQL (302.8ms)[0m  ALTER TABLE `admin_users` ADD `username` varchar(25)
+  [1m[36mSQL (157.0ms)[0m  [1mALTER TABLE `admin_users` CHANGE `email` `email` varchar(100) DEFAULT '' NOT NULL[0m
+  [1m[35mSQL (1.5ms)[0m  SHOW COLUMNS FROM `admin_users` LIKE 'password'
+  [1m[36mSQL (108.3ms)[0m  [1mALTER TABLE `admin_users` CHANGE `password` `hashed_password` varchar(40) DEFAULT NULL[0m
+  [1m[35mSQL (160.0ms)[0m  ALTER TABLE `admin_users` ADD `salt` varchar(40)
+  [1m[36mSQL (0.5ms)[0m  [1mSHOW KEYS FROM `admin_users`[0m
+  [1m[35mSQL (107.9ms)[0m  CREATE INDEX `index_admin_users_on_username` ON `admin_users` (`username`)
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128144244')[0m
+Migrating to CreateSubjects (20120128154803)
+  [1m[35mSQL (116.8ms)[0m  CREATE TABLE `subjects` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128154803')[0m
+Migrating to CreatePages (20120128154809)
+  [1m[35mSQL (185.2ms)[0m  CREATE TABLE `pages` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `subject_id` int(11), `name` varchar(255), `permalink` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.6ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (113.2ms)[0m  CREATE INDEX `index_pages_on_subject_id` ON `pages` (`subject_id`)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (125.8ms)[0m  CREATE INDEX `index_pages_on_permalink` ON `pages` (`permalink`)
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128154809')[0m
+Migrating to CreateSections (20120128154816)
+  [1m[35mSQL (137.6ms)[0m  CREATE TABLE `sections` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `page_id` int(11), `name` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `content_type` varchar(255), `content` text, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.9ms)[0m  [1mSHOW KEYS FROM `sections`[0m
+  [1m[35mSQL (175.1ms)[0m  CREATE INDEX `index_sections_on_page_id` ON `sections` (`page_id`)
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120128154816')[0m
+  [1m[35mSQL (0.5ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.7ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (1.5ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (1.4ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (1.7ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subjects`
+  [1m[36mSQL (31.6ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (27.6ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.6ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mAREL (26.2ms)[0m  INSERT INTO `subjects` (`name`, `position`, `visible`, `created_at`, `updated_at`) VALUES ('First Subject', 1, 1, '2012-01-29 16:44:38', '2012-01-29 16:44:38')
+  [1m[36mSQL (73.8ms)[0m  [1mCOMMIT[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (0.4ms)[0m  [1mINSERT INTO `subjects` (`name`, `position`, `visible`, `created_at`, `updated_at`) VALUES ('Second Subject', 2, 0, '2012-01-29 16:46:17', '2012-01-29 16:46:17')[0m
+  [1m[35mSQL (0.5ms)[0m  COMMIT
+  [1m[36mSubject Load (61.9ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 1 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (47.3ms)[0m  [1mUPDATE `subjects` SET `name` = 'Initial Subject', `updated_at` = '2012-01-29 16:49:16' WHERE `subjects`.`id` = 1[0m
+  [1m[35mSQL (0.6ms)[0m  COMMIT
+  [1m[36mSubject Load (0.5ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 2 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (0.6ms)[0m  [1mUPDATE `subjects` SET `name` = 'Revised Subject', `visible` = 1, `updated_at` = '2012-01-29 16:50:18' WHERE `subjects`.`id` = 2[0m
+  [1m[35mSQL (0.4ms)[0m  COMMIT
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO `subjects` (`name`, `position`, `visible`, `created_at`, `updated_at`) VALUES ('Bad Subject', NULL, 0, '2012-01-29 16:52:07', '2012-01-29 16:52:07')
+  [1m[36mSQL (0.5ms)[0m  [1mCOMMIT[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 3 LIMIT 1
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mAREL (0.2ms)[0m  DELETE FROM `subjects` WHERE `subjects`.`id` = 3
+  [1m[36mSQL (50.0ms)[0m  [1mCOMMIT[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.0ms)[0m  [1mCOMMIT[0m
+  [1m[35mSubject Load (0.4ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 3 LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO `subjects` (`name`, `position`, `visible`, `created_at`, `updated_at`) VALUES ('Third Subject', 3, 0, '2012-01-29 21:44:54', '2012-01-29 21:44:54')
+  [1m[36mSQL (613.0ms)[0m  [1mCOMMIT[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 1 LIMIT 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 3 LIMIT 1[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 4 LIMIT 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 3 LIMIT 1[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`name` = 'Initial Subject' LIMIT 1
+  [1m[36mSubject Load (0.2ms)[0m  [1mSELECT `subjects`.* FROM `subjects`[0m
+  [1m[35mSubject Load (0.2ms)[0m  SELECT `subjects`.* FROM `subjects`
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` LIMIT 1[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` LIMIT 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` LIMIT 1[0m
+  [1m[35mSubject Load (0.2ms)[0m  SELECT `subjects`.* FROM `subjects` LIMIT 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` ORDER BY subjects.id DESC LIMIT 1[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 0[0m
+  [1m[35mSubject Load (0.5ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE (visible = true)[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE (visible = 1)
+  [1m[36mSubject Load (49.2ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 1 AND (visible = 1)[0m
+  [1m[35mSubject Load (36.5ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 1 AND `subjects`.`position` = 1 AND (visible = 1)
+  [1m[36mSubject Load (0.4ms)[0m  [1mSELECT `subjects`.* FROM `subjects`[0m
+  [1m[36mSQL (29.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSubject Load (24.8ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visibile` = 1
+Mysql2::Error: Unknown column 'subjects.visibile' in 'where clause': SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visibile` = 1
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 1
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 0[0m
+  [1m[35mSubject Load (0.5ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`visible` = 1 LIMIT 1
+  [1m[36mSQL (23.6ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSubject Load (19.2ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE (name LIKE '%Initial%')
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE (name LIKE '%\'%')[0m
+  [1m[35mSubject Load (0.5ms)[0m  SELECT `subjects`.* FROM `subjects`
+  [1m[36mSubject Load (0.5ms)[0m  [1mSELECT `subjects`.* FROM `subjects`[0m
+  [1m[36mSQL (23.6ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSubject Load (0.4ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 1 LIMIT 1
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT `pages`.* FROM `pages` WHERE (`pages`.subject_id = 1) LIMIT 1[0m
+  [1m[35mPage Load (0.3ms)[0m  SELECT `pages`.* FROM `pages` WHERE (`pages`.subject_id = 1) LIMIT 1
+  [1m[36mSQL (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.9ms)[0m  describe `pages`
+  [1m[36mAREL (16.8ms)[0m  [1mINSERT INTO `pages` (`subject_id`, `name`, `permalink`, `position`, `visible`, `created_at`, `updated_at`) VALUES (1, 'First Page', 'first', 1, 0, '2012-01-29 22:56:22', '2012-01-29 22:56:22')[0m
+  [1m[35mSQL (49.9ms)[0m  COMMIT
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 1 LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (0.2ms)[0m  [1mDELETE FROM `pages` WHERE `pages`.`id` = 1[0m
+  [1m[35mSQL (65.0ms)[0m  COMMIT
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT `pages`.* FROM `pages`[0m
+  [1m[36mSQL (22.1ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSubject Load (0.4ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 1 LIMIT 1
+  [1m[36mPage Load (0.5ms)[0m  [1mSELECT `pages`.* FROM `pages` WHERE (`pages`.subject_id = 1)[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mSQL (1.0ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mAREL (0.5ms)[0m  INSERT INTO `pages` (`subject_id`, `name`, `permalink`, `position`, `visible`, `created_at`, `updated_at`) VALUES (1, 'First Page', 'first', 1, 0, '2012-01-29 23:18:34', '2012-01-29 23:18:34')
+  [1m[36mSQL (31.4ms)[0m  [1mCOMMIT[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO `pages` (`subject_id`, `name`, `permalink`, `position`, `visible`, `created_at`, `updated_at`) VALUES (1, 'Second Page', 'second', 1, 0, '2012-01-29 23:19:35', '2012-01-29 23:19:35')[0m
+  [1m[35mSQL (0.4ms)[0m  COMMIT
+  [1m[36mSQL (32.5ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSection Load (17.0ms)[0m  SELECT `sections`.* FROM `sections` WHERE (`sections`.page_id = 2)
+  [1m[36mSQL (19.8ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.5ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+Migrating to CreateSubjects (20120128154803)
+Migrating to CreatePages (20120128154809)
+Migrating to CreateSections (20120128154816)
+Migrating to CreateAdminUsersPagesJoin (20120129233029)
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+Migrating to CreateSubjects (20120128154803)
+Migrating to CreatePages (20120128154809)
+Migrating to CreateSections (20120128154816)
+Migrating to CreateAdminUsersPagesJoin (20120129233029)
+  [1m[35mSQL (250.8ms)[0m  CREATE TABLE `admin_users_pages` (`admin_user_id` int(11), `page_id` int(11)) ENGINE=InnoDB
+  [1m[36mSQL (0.7ms)[0m  [1mSHOW KEYS FROM `admin_users_pages`[0m
+  [1m[35mSQL (500.6ms)[0m  CREATE INDEX `index_admin_users_pages_on_admin_user_id_and_page_id` ON `admin_users_pages` (`admin_user_id`, `page_id`)
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120129233029')[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.3ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (1.0ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users_pages`
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (1.4ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (21.9ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (1.5ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subjects`
+  [1m[36mSQL (25.8ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (22.6ms)[0m  SHOW TABLES
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT `pages`.* FROM `pages` WHERE `pages`.`id` = 2 LIMIT 1[0m
+  [1m[36mSQL (2.5ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.5ms)[0m  SHOW TABLES
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT `pages`.* FROM `pages` WHERE `pages`.`id` = 2 LIMIT 1[0m
+  [1m[35mSQL (2.3ms)[0m  describe `admin_users_pages`
+  [1m[36mAdminUser Load (33.9ms)[0m  [1mSELECT * FROM `admin_users` INNER JOIN `admin_users_pages` ON `admin_users`.id = `admin_users_pages`.admin_user_id WHERE (`admin_users_pages`.page_id = 2 )[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mSQL (1.4ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO `admin_users` (`first_name`, `last_name`, `email`, `hashed_password`, `created_at`, `updated_at`, `username`, `salt`) VALUES ('Chris', 'Kelly', '', NULL, '2012-01-29 23:44:17', '2012-01-29 23:44:17', 'ckelly', NULL)
+  [1m[36mSQL (20.7ms)[0m  [1mCOMMIT[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO `admin_users_pages` (`admin_user_id`, `page_id`) VALUES (1, 2)[0m
+  [1m[35mSQL (0.2ms)[0m  COMMIT
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT * FROM `pages` INNER JOIN `admin_users_pages` ON `pages`.id = `admin_users_pages`.page_id WHERE (`admin_users_pages`.admin_user_id = 1 )[0m
+  [1m[36mSQL (207.6ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20120127223505)
+Migrating to CreateUsers (20120127223754)
+Migrating to AlterUsers (20120128144244)
+Migrating to CreateSubjects (20120128154803)
+Migrating to CreatePages (20120128154809)
+Migrating to CreateSections (20120128154816)
+Migrating to CreateAdminUsersPagesJoin (20120129233029)
+Migrating to CreateSectionEdits (20120130032526)
+  [1m[35mSQL (241.7ms)[0m  CREATE TABLE `section_edits` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `admin_user_id` int(11), `section_id` int(11), `summary` varchar(255), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.5ms)[0m  [1mSHOW KEYS FROM `section_edits`[0m
+  [1m[35mSQL (171.3ms)[0m  CREATE INDEX `index_section_edits_on_admin_user_id_and_section_id` ON `section_edits` (`admin_user_id`, `section_id`)
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20120130032526')[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (1.4ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (0.9ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users_pages`
+  [1m[36mSQL (1.4ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (1.3ms)[0m  [1mdescribe `section_edits`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `section_edits`
+  [1m[36mSQL (1.3ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (1.7ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `subjects`
+  [1m[36mSQL (14.8ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mAdminUser Load (0.4ms)[0m  [1mSELECT `admin_users`.* FROM `admin_users` WHERE `admin_users`.`id` = 1 LIMIT 1[0m
+  [1m[35mSectionEdit Load (0.4ms)[0m  SELECT `section_edits`.* FROM `section_edits` WHERE (`section_edits`.admin_user_id = 1)
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.4ms)[0m  describe `sections`
+  [1m[36mAREL (16.0ms)[0m  [1mINSERT INTO `sections` (`page_id`, `name`, `position`, `visible`, `content_type`, `content`, `created_at`, `updated_at`) VALUES (NULL, 'Section One', 1, 0, NULL, NULL, '2012-01-30 03:37:04', '2012-01-30 03:37:04')[0m
+  [1m[35mSQL (0.5ms)[0m  COMMIT
+  [1m[36mSQL (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.1ms)[0m  describe `section_edits`
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO `section_edits` (`admin_user_id`, `section_id`, `summary`, `created_at`, `updated_at`) VALUES (NULL, 1, 'Test edit', '2012-01-30 03:37:47', '2012-01-30 03:37:47')[0m
+  [1m[35mSQL (0.2ms)[0m  COMMIT
+  [1m[36mSectionEdit Load (0.2ms)[0m  [1mSELECT `section_edits`.* FROM `section_edits` WHERE (`section_edits`.section_id = 1)[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (0.3ms)[0m  [1mUPDATE `section_edits` SET `created_at` = '2012-01-30 03:37:47', `updated_at` = '2012-01-30 03:37:47', `admin_user_id` = 1 WHERE `section_edits`.`id` = 1[0m
+  [1m[35mSQL (0.4ms)[0m  COMMIT
+  [1m[36mSectionEdit Load (0.3ms)[0m  [1mSELECT `section_edits`.* FROM `section_edits` WHERE (`section_edits`.admin_user_id = 1)[0m
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO `section_edits` (`admin_user_id`, `section_id`, `summary`, `created_at`, `updated_at`) VALUES (1, 1, 'Ch-Ch-ch-Changes', '2012-01-30 03:40:00', '2012-01-30 03:40:00')[0m
+  [1m[35mSQL (27.1ms)[0m  COMMIT
+  [1m[36mSectionEdit Load (0.5ms)[0m  [1mSELECT `section_edits`.* FROM `section_edits` WHERE (`section_edits`.admin_user_id = 1)[0m
+  [1m[35mSectionEdit Load (0.3ms)[0m  SELECT `section_edits`.* FROM `section_edits` WHERE (`section_edits`.section_id = 1)
+  [1m[36mSQL (2.4ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.5ms)[0m  SHOW TABLES
+  [1m[36mAdminUser Load (0.2ms)[0m  [1mSELECT `admin_users`.* FROM `admin_users` WHERE `admin_users`.`id` = 1 LIMIT 1[0m
+  [1m[35mAdminUser Load (0.3ms)[0m  SELECT `admin_users`.* FROM `admin_users` WHERE `admin_users`.`id` = 1 LIMIT 1
+  [1m[36mSection Load (0.4ms)[0m  [1mSELECT `sections`.* FROM `sections` INNER JOIN `section_edits` ON `sections`.id = `section_edits`.section_id WHERE ((`section_edits`.admin_user_id = 1))[0m
+  [1m[35mSection Load (0.2ms)[0m  SELECT `sections`.* FROM `sections` WHERE `sections`.`id` = 1 LIMIT 1
+  [1m[36mAdminUser Load (0.5ms)[0m  [1mSELECT `admin_users`.* FROM `admin_users` INNER JOIN `section_edits` ON `admin_users`.id = `section_edits`.admin_user_id WHERE ((`section_edits`.section_id = 1))[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /Users/chkelly/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:08:13 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[36mSQL (0.5ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSubject Load (13.2ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.3ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (37.8ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.1ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+Rendered subjects/list.html.erb within layouts/application (108.9ms)
+Completed 200 OK in 230ms (Views: 85.3ms | ActiveRecord: 53.2ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:08:32 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[36mSubject Load (0.6ms)[0m  [1mSELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC[0m
+  [1m[35mSQL (1.1ms)[0m  describe `admin_users_pages`
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)[0m
+  [1m[35mSQL (0.1ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)[0m
+Rendered subjects/list.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 98ms (Views: 27.2ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/subjects/show/1" for 127.0.0.1 at 2012-01-29 23:08:39 -0500
+
+AbstractController::ActionNotFound (The action 'show' could not be found for SubjectsController):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.6ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:08:44 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+Rendered subjects/list.html.erb within layouts/application (25.2ms)
+Completed 200 OK in 37ms (Views: 26.2ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:09:03 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC[0m
+  [1m[35mSQL (1.6ms)[0m  describe `admin_users_pages`
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)[0m
+Rendered subjects/list.html.erb within layouts/application (29.4ms)
+Completed 200 OK in 42ms (Views: 30.1ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:11:00 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+Rendered subjects/list.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 39ms (Views: 27.1ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:21:12 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC[0m
+  [1m[35mSQL (1.3ms)[0m  describe `admin_users_pages`
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)[0m
+Rendered subjects/list.html.erb within layouts/application (88.4ms)
+Completed 200 OK in 167ms (Views: 89.6ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/subjects/show/1" for 127.0.0.1 at 2012-01-29 23:21:14 -0500
+  Processing by SubjectsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 1 LIMIT 1
+Rendered subjects/show.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 26ms (Views: 15.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/subjects/show/2" for 127.0.0.1 at 2012-01-29 23:21:19 -0500
+  Processing by SubjectsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 2 LIMIT 1[0m
+Rendered subjects/show.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 24ms (Views: 11.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:21:20 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.4ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+Rendered subjects/list.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 65ms (Views: 46.8ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/subjects/show/4" for 127.0.0.1 at 2012-01-29 23:21:21 -0500
+  Processing by SubjectsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 4 LIMIT 1[0m
+Rendered subjects/show.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 25ms (Views: 14.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:21:22 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.3ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+Rendered subjects/list.html.erb within layouts/application (45.9ms)
+Completed 200 OK in 59ms (Views: 46.9ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/subjects/show/2" for 127.0.0.1 at 2012-01-29 23:21:24 -0500
+  Processing by SubjectsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` WHERE `subjects`.`id` = 2 LIMIT 1[0m
+Rendered subjects/show.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 81ms (Views: 12.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:21:25 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.2ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+Rendered subjects/list.html.erb within layouts/application (46.1ms)
+Completed 200 OK in 58ms (Views: 47.1ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/subjects/" for 127.0.0.1 at 2012-01-29 23:22:52 -0500
+  Processing by SubjectsController#index as HTML
+  [1m[36mSubject Load (0.3ms)[0m  [1mSELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC[0m
+  [1m[35mSQL (1.1ms)[0m  describe `admin_users_pages`
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)[0m
+  [1m[35mSQL (0.1ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)[0m
+Rendered subjects/list.html.erb within layouts/application (45.4ms)
+Completed 200 OK in 60ms (Views: 46.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/subjects/new" for 127.0.0.1 at 2012-01-29 23:36:37 -0500
+  Processing by SubjectsController#new as HTML
+Rendered subjects/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/subjects/new" for 127.0.0.1 at 2012-01-29 23:37:34 -0500
+  Processing by SubjectsController#new as HTML
+Rendered subjects/new.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 111ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/subjects/new" for 127.0.0.1 at 2012-01-29 23:42:41 -0500
+
+SyntaxError (/Users/chkelly/Sites/simple_cms/app/controllers/subjects_controller.rb:31: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/chkelly/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/subjects/new" for 127.0.0.1 at 2012-01-29 23:44:20 -0500
+  Processing by SubjectsController#new as HTML
+Rendered subjects/new.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 20ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/subjects/create" for 127.0.0.1 at 2012-01-29 23:45:00 -0500
+  Processing by SubjectsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8JNNgn5svcovqUeft23KIxpgn8KWW0Un6zhwV0TPqv0=", "subject"=>{"name"=>"Test Subject", "position"=>"8", "visible"=>"false"}, "commit"=>"Create Subject"}
+  [1m[35mSQL (0.1ms)[0m  BEGIN
+  [1m[36mSQL (1.4ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO `subjects` (`name`, `position`, `visible`, `created_at`, `updated_at`) VALUES ('Test Subject', 8, 0, '2012-01-30 04:45:00', '2012-01-30 04:45:00')
+  [1m[36mSQL (0.3ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/subjects/list
+Completed 302 Found in 19ms
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:45:00 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (33.6ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.3ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.1ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 5)[0m
+Rendered subjects/list.html.erb within layouts/application (87.7ms)
+Completed 200 OK in 100ms (Views: 56.1ms | ActiveRecord: 36.7ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:46:26 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.2ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 5)[0m
+Rendered subjects/list.html.erb within layouts/application (27.2ms)
+Completed 200 OK in 39ms (Views: 28.1ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:46:28 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (2.2ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 5)[0m
+Rendered subjects/list.html.erb within layouts/application (48.8ms)
+Completed 200 OK in 61ms (Views: 48.6ms | ActiveRecord: 3.3ms)
+
+
+Started GET "/subjects/list" for 127.0.0.1 at 2012-01-29 23:46:36 -0500
+  Processing by SubjectsController#list as HTML
+  [1m[35mSubject Load (0.3ms)[0m  SELECT `subjects`.* FROM `subjects` ORDER BY subjects.position ASC
+  [1m[36mSQL (1.1ms)[0m  [1mdescribe `admin_users_pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 1)
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 2)[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 4)
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM `pages` WHERE (`pages`.subject_id = 5)[0m
+Rendered subjects/list.html.erb within layouts/application (28.3ms)
+Completed 200 OK in 58ms (Views: 29.2ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/subjects/new" for 127.0.0.1 at 2012-01-29 23:46:37 -0500
+  Processing by SubjectsController#new as HTML
+Rendered subjects/new.html.erb within layouts/application (24.1ms)
+Completed 200 OK in 38ms (Views: 27.2ms | ActiveRecord: 0.0ms)
