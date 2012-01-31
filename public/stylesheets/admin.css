@@ -44,12 +44,15 @@ a.action:hover { background: #B6D491; }
 .section + .section { padding-top: 0.5em; margin-top: 0.5em; 
   border-top: 1px dotted #666666; }
 
-/* span tags */
-span.status { display: block; width: 10px; height: 10px; margin: 0.25em auto; padding: 0; border: 1px solid #000000; }
-span.status.true { background: green; color: green; }
-span.status.false { background: red; color:red; }
+span.status { display: block; width: 10px; height: 10px; 
+  margin: 0.25em auto; padding: 0; border: 1px solid #000000; }
+span.status.true  { background: green; color: green; }
+span.status.false { background: red; color: red; }
+
 /* Errors */
-.fieldWithErrors { display: table; padding: 2px; background-color: #AA0000; }
+.field_with_errors { }
+.field_with_errors label { color: #AA0000; }
+.field_with_errors input { }
 #errorExplanation { width: 400px; padding: 0; margin: 0 auto 1.5em; 
   border: 1px solid #AA0000; background-color: #FFFFFF; font-size: 12px; }
 #errorExplanation h2 { font-weight: bold; font-size: 12px;
