@@ -1,0 +1,5 @@
+<%= link_to('Roar', '#', :onclick => "jsRoar(); return true;") %>
+
+<% text = "'); alert('gotcha!" %>
+<%= javascript_tag("alert('#{escape_javascript(text)}');") %>
+

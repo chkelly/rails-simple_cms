@@ -18,11 +18,11 @@
     </tr>
     <tr>
       <th>Created</th>
-      <td><%= @subject.created_at %></td>
+      <td><%= @subject.created_at.to_s(:long_ordinal) %></td>
     </tr>
     <tr>
       <th>Updated</th>
-      <td><%= @subject.updated_at %></td>
+      <td><%= @subject.updated_at.to_s(:long_ordinal) %></td>
     </tr>
   </table>
   
