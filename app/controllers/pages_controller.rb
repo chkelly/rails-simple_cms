@@ -1,6 +1,8 @@
 class PagesController < ApplicationController
       layout 'admin'
   
+  before_filter :confirm_logged_in, :except => [:login, :attempt_login, :logout]
+  
   def index
     list
     render('list')
